@@ -25,7 +25,7 @@ You must obtain them separately from their original source (Unreal Marketplace, 
 
 The complete Blob Person Unreal Engine 5 project (3.19 GB) is available here:
 
-[Download the full project from Google Drive]([https://drive.google.com/your-folder-link](https://drive.google.com/file/d/18EifACHZjW64cAIS8fvS6Y8UIpWqv_X4/view?usp=sharing))
+[Download the full project from Google Drive](https://drive.google.com/file/d/18EifACHZjW64cAIS8fvS6Y8UIpWqv_X4/view?usp=sharing)
 
 ⚠️ Note: This repository only contains the licenses for the project. All Unreal Engine assets are included in the Google Drive download.
 WinRar or similar program will be required to extract files from the .rar archive
